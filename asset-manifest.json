@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/react-3d/static/css/main.756a0b02.css",
+    "main.js": "/react-3d/static/js/main.ea895b26.js",
+    "static/js/208.9fe4fcf0.chunk.js": "/react-3d/static/js/208.9fe4fcf0.chunk.js",
+    "static/js/293.54c4b79d.chunk.js": "/react-3d/static/js/293.54c4b79d.chunk.js",
+    "static/js/917.6d73c0fd.chunk.js": "/react-3d/static/js/917.6d73c0fd.chunk.js",
+    "static/js/516.5779a21a.chunk.js": "/react-3d/static/js/516.5779a21a.chunk.js",
+    "static/js/519.a79da959.chunk.js": "/react-3d/static/js/519.a79da959.chunk.js",
+    "static/js/946.f33dcbe2.chunk.js": "/react-3d/static/js/946.f33dcbe2.chunk.js",
+    "static/js/160.e7e16162.chunk.js": "/react-3d/static/js/160.e7e16162.chunk.js",
+    "static/js/23.0dcb39e1.chunk.js": "/react-3d/static/js/23.0dcb39e1.chunk.js",
+    "static/js/453.549ba902.chunk.js": "/react-3d/static/js/453.549ba902.chunk.js",
+    "static/media/logo.svg": "/react-3d/static/media/logo.e258c777d2cec1e64b64937202f1e8ec.svg",
+    "static/media/icon-twitter.svg": "/react-3d/static/media/icon-twitter.1f8af10d7d0f55fb6a77d5e462fcba76.svg",
+    "index.html": "/react-3d/index.html",
+    "static/media/icon-laptop.svg": "/react-3d/static/media/icon-laptop.280f18924ab59a11e682d6c007230866.svg",
+    "static/media/icon-youtube.svg": "/react-3d/static/media/icon-youtube.d6990689144097dfeb543d27c997298f.svg",
+    "main.756a0b02.css.map": "/react-3d/static/css/main.756a0b02.css.map",
+    "main.ea895b26.js.map": "/react-3d/static/js/main.ea895b26.js.map",
+    "208.9fe4fcf0.chunk.js.map": "/react-3d/static/js/208.9fe4fcf0.chunk.js.map",
+    "293.54c4b79d.chunk.js.map": "/react-3d/static/js/293.54c4b79d.chunk.js.map",
+    "917.6d73c0fd.chunk.js.map": "/react-3d/static/js/917.6d73c0fd.chunk.js.map",
+    "516.5779a21a.chunk.js.map": "/react-3d/static/js/516.5779a21a.chunk.js.map",
+    "519.a79da959.chunk.js.map": "/react-3d/static/js/519.a79da959.chunk.js.map",
+    "946.f33dcbe2.chunk.js.map": "/react-3d/static/js/946.f33dcbe2.chunk.js.map",
+    "160.e7e16162.chunk.js.map": "/react-3d/static/js/160.e7e16162.chunk.js.map",
+    "23.0dcb39e1.chunk.js.map": "/react-3d/static/js/23.0dcb39e1.chunk.js.map",
+    "453.549ba902.chunk.js.map": "/react-3d/static/js/453.549ba902.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.756a0b02.css",
+    "static/js/main.ea895b26.js"
+  ]
+}
