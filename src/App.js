@@ -6,7 +6,13 @@ import IconTwitter from "./images/icon-twitter.svg";
 import IconYoutube from "./images/icon-youtube.svg";
 import "./App.css";
 
+import { useEffect } from "react";
+import { useLocation } from "react-router-dom";
+
 export default function App() {
+  useEffect(() => {
+    ReactGA.pageview(window.location.pathname + window.location.search);
+  }, []);
   return (
     <Wrapper>
       <Spline
